@@ -7,3 +7,7 @@ QCreates - To be determined
 Denial-River - To be determined
 
   Digital Portfolio: https://codermerlin.com/users/daniel-joung/Digital%20Portfolio/index.html
+
+LiIlypad - To be determined
+
+  Digital Portfolio: https://codermerlin.com/users/lilly-seeley/Digital%20Portfolio/index.html
