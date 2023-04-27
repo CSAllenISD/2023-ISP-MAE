@@ -1,4 +1,39 @@
 body{
     font-size: 12vh;
     line-weight: 3px;
+    border-style: solid;
+}
+
+.memoryTower{
+    border-style: solid;
+    height: 70vh;
+    width: 10vw;
+    margin-top: 5vh;
+    margin-left: 10vw;
+}
+
+.MR{
+    height: 3vh;
+    width: 10vw;
+    margin-left: 10vw;
+}
+
+#A{
+    margin-top: 30vh;
+}
+
+#D{
+    margin-top: 40vh;
+}
+
+.conveyor1{
+    height: 40vh;
+    width: 3vw;
+    margin-top: -5vh;
+}
+
+.conveyor2{
+    height: 4vh;
+    width: 50vw;
+    margin-top: 5vh;
 }
